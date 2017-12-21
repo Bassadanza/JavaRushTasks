@@ -1,0 +1,8 @@
+.idea/*
+JavaRushPlugin.properties
+out/*
+/lib/*
+/5.OnlineInternship/*
+/*.png
+*.iml
+*.info
